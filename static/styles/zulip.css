@@ -1089,9 +1089,18 @@ just a temporary hack.
     position: relative;
 }
 
+.message_header_private_message,
+.message_row.private-message {
+  margin-left: 30px;
+}
+
+.private-message .messagebox {
+  background-color: #d7d7da;
+}
+
 .private-message .messagebox,
 .message_header_private_message .message-header-contents {
-    background-color: #feffe0;
+    background-color: #d7d7da;
 }
 
 .message_header_private_message .message-header-contents {
