@@ -11,7 +11,7 @@ html {
 }
 
 body {
-    font-family: 'Humbug', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 /* Common background color */
@@ -30,7 +30,7 @@ input,
 button,
 select,
 textarea {
-    font-family: 'Humbug', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     line-height: normal;
 }
 
@@ -132,7 +132,7 @@ a {
 
 textarea,
 input {
-    font-family: 'Humbug', Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 
@@ -2091,7 +2091,7 @@ input.recipient_box {
     background: rgb(255,255,255); /* Old browsers */
     border: none;
     border-radius: 0px;
-    font-family: 'Humbug';
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 300;
     line-height: 27px;
 }
